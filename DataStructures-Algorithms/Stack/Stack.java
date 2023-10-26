@@ -1,3 +1,4 @@
+#stack class
 class Stack{
 
 int stack[],n,top=0;
